@@ -1,4 +1,5 @@
 ﻿# digital  Clock in  javascript 
+ ![Digital clock image ](https://i.ibb.co/9ccNY1h/Screenshot-1.png)
  
  ## HTML Code Here ........
  ```HTML 
